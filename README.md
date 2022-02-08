@@ -1,7 +1,7 @@
 # Citizens App (web3-react-redux)
 React application based on smart contract using web3 and MetaMask extention.
  
- <img   width="1136" alt="Welcome" title="Welcome" src="./assets/764A3C1A-D095-4783-8A44-159BD793F794.jpeg" />
+ <img   width="1136" alt="Welcome" title="Welcome" src="./asset/764A3C1A-D095-4783-8A44-159BD793F794.jpeg" />
 
 
 ## Start the applicarion
